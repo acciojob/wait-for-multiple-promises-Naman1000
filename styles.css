@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+ table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+      text-align: center;
+    }
+    table {
+      width: 60%;
+      margin-top: 20px;
+    }
+    #start {
+      margin-top: 20px;
+    }
